@@ -4,8 +4,9 @@
 ------------------------------------------------------------------------------- | --------------------------------------------------------------------------
 **[Анализ данных Яндекс.Музыки](https://github.com/semkamagurov/ya_practicum/tree/master/1_music_intro) (1_music_intro)**|`введение в анализ данных, pandas, jupiter`
 
-**[Исследование надежности заемщиков](https://github.com/semkamagurov/ya_practicum/tree/master/2_borrowers_research_pretreatment) (2_borrowers_research_pretreatment)**`предобработка данных, лемматизация (pymystem3), сводные таблицы, pandas`
+**[Исследование надежности заемщиков](https://github.com/semkamagurov/ya_practicum/tree/master/2_borrowers_research_pretreatment)| (2_borrowers_research_pretreatment)**|`предобработка данных, лемматизация (pymystem3), сводные таблицы, pandas`
 
+**[Исследование объявлений о продаже квартир](https://github.com/semkamagurov/ya_practicum/tree/master/3_real_estate_eda) (3_real_estate_eda)**|`исследовательский анализ данных (EDA), numpy, matplotlib.pyplot, boxplot` 
 
 **1) [Анализ данных Яндекс.Музыки](https://github.com/semkamagurov/ya_practicum/tree/master/1_music_intro) (1_music_intro)**      
    *Ключевые слова и библиотеки:* `введение в анализ данных, pandas, jupiter`   
